@@ -1,5 +1,5 @@
-Segment,AvgTotalSpent,TotalSpentCount,AvgPurchaseFrequency,AvgCustomerLifespan,SegmentLabel
-0,360.38,872,31.11,1.02,BudgetRegular
-1,332.74,752,28.4,5.26,BudgetIrregular
-2,2377.4,673,1.26,241.04,HighValueIrregular
-3,779.54,1607,1.02,169.69,HighSpendingIrregular
+AvgTotalSpent,TotalSpentCount,AvgPurchaseFrequency,AvgCustomerLifespan,SegmentLabel
+779.16,1608,1.02,169.64,HighSpendingIrregular
+359.22,878,31.1,1.02,BudgetOld
+2377.4,673,1.26,241.04,HighValueIrregular
+334.1,745,28.42,5.18,BudgetNew
